@@ -3,7 +3,7 @@ function Header(){
     return(
         <div>
             <div>
-                <h1 className='Header'>Water Billing System</h1>
+                <h1 className='Header'>National Water Payment Portal</h1>
             </div>
         </div>
     );

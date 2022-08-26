@@ -1,9 +1,13 @@
 import React from 'react';
+import Loginpage from '../components/Loginpage';
 import Header from '../components/Header';
-function Login() {
-    return (
-        <div>
+import Loginwindow from '../components/Loginwindow';
+function Login(){
+    return(
+        <div>        
             <Header />
+            <Loginpage />
+            <Loginwindow />
         </div>
     );
 }

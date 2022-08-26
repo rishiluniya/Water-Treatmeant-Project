@@ -1,14 +1,24 @@
 .cust-button {
     background-color: #00BADF;
+    color: white;
     width: fit-content;
     height: fit-content;
-    padding: 15px;
-    border-radius: 25px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
     -webkit-transition-duration: 200ms;
     box-shadow: 0px 0px 0.75em #00BADF;
+    margin-top: 8rem;
+    margin-left: 80rem;
+    margin-right: 20rem;
+    font-weight: 600;
 }
 
 .cust-button:hover {
     background-color: #00cdff;
+    color: white;
+    cursor: pointer;
     /* box-shadow: 0px */
 }

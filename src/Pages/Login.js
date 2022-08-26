@@ -9,7 +9,6 @@ function Login(){
             <Header />
             <Loginpage />
             <Loginwindow />
-            <Button2 />
         </div>
     );
 }

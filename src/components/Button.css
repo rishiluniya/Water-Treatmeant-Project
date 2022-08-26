@@ -14,6 +14,7 @@
     margin-left: 80rem;
     margin-right: 20rem;
     font-weight: 600;
+    text-decoration: none;
 }
 
 .cust-button:hover {
@@ -25,4 +26,7 @@
 .link{
     text-decoration: none;
     color: white;
+}
+.margin{
+    margin-top:6em ;
 }

@@ -4,7 +4,7 @@ import './Button.css';
 
 function Button() {
     return (
-        <div className="Margin">
+        <div className="margin">
             <Link to='/login' className="cust-button ,link">LOGIN</Link>
         </div>
     );

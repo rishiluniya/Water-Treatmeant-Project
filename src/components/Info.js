@@ -1,4 +1,5 @@
 import './Info.css';
+import React from 'react';
 import Factory from '../Ui/factory_vector.png'
 
 function Info() {

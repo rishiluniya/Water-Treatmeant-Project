@@ -1,11 +1,13 @@
 import React from 'react';
 import Header from '../components/Header';
-function Login() {
+import Final from '../components/Final';
+function Bill() {
     return (
         <div>
             <Header />
+            <Final />
         </div>
     );
 }
 
-export default Login;
+export default Bill;

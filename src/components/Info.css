@@ -1,0 +1,19 @@
+.Info {
+
+    place-content: center;
+    margin-left: 2em;
+    margin-right: 20em;
+    margin-top: 2.9em;
+    line-height: 1.55em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.body{
+    display: flex;
+    flex-direction: row;
+}
+.image{
+    width: 200px;
+    height: auto;
+}

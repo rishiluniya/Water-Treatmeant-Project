@@ -1,0 +1,30 @@
+.Rect{
+  
+    width: 400px;
+    height: 600px;
+    background: white;
+    border: 0.125em solid black;
+
+    margin-left: 35.5%;
+    margin-right: 50%;
+    position: fixed;
+    top: 14%;
+
+    box-shadow: 0 0 0.25em black; 
+
+}
+
+.Rect_Header{
+
+    width: 400px;
+    height: 75px;
+    background-color: #00CDFF;
+    box-shadow: 0 0 1em #00CDFF;
+}
+
+.Rect:hover{
+    border: 0.125em black solid;
+    box-shadow: 0 0 6em #00CDFF;
+    -webkit-transition-duration: 60ms;
+
+}

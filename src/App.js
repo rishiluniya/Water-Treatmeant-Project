@@ -1,13 +1,13 @@
 import Header from './components/Header';
-import button from './components/button';
 import Info from './components/Info';
+import Button from './components/Button';
 
 function App() {
   return (
     <div >
       <Header />
-      <button />
       <Info />
+      <Button />
     </div>
   );
 }

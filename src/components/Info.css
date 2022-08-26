@@ -1,20 +1,13 @@
 .Info {
 
-    margin-right: 60rem;
-    margin-left: 3rem;
-    margin-top: 2rem;
-    padding: auto;
-    font-family: "Times New Roman", Times, serif;
-
-
     place-content: center;
     margin-left: 2em;
-    margin-right: 20em;
-    margin-top: 2.9em;
-    margin-bottom: 9em;
+    margin-right: 32em;
+    margin-top: 2.1em;
     line-height: 1.55em;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    font-size: 1.1rem;
+    font-weight: 500;
+    text-align: justify;
 }
 
 .body{

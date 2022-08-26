@@ -2,7 +2,7 @@
   
     width: 400px;
     height: 600px;
-    background: white;
+    background: #F5F5F5;
     border: 0.125em solid black;
 
     margin-left: 35.5%;
@@ -27,4 +27,19 @@
     box-shadow: 0 0 6em #00CDFF;
     -webkit-transition-duration: 60ms;
 
+}
+
+.Image{
+    margin-left: 64px;
+    margin-top: 60px;
+}
+
+.Form{
+    margin-left: 85px;
+    margin-top: 60px;
+}
+
+.pass{
+    margin-left: 5px;
+    margin-top: 10px;
 }

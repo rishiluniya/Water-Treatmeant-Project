@@ -1,0 +1,14 @@
+.cust-button {
+    background-color: #00BADF;
+    width: fit-content;
+    height: fit-content;
+    padding: 15px;
+    border-radius: 25px;
+    -webkit-transition-duration: 200ms;
+    box-shadow: 0px 0px 0.75em #00BADF;
+}
+
+.cust-button:hover {
+    background-color: #00cdff;
+    /* box-shadow: 0px */
+}
